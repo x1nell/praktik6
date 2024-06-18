@@ -20,3 +20,5 @@
 - HTML
 - CSS
 - JavaScript
+
+https://x1nell.github.io/praktik6/
